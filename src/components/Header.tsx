@@ -3,7 +3,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { Menu, X, Phone, Mail, MapPin, Globe, MessageCircle } from "lucide-react";
 import { useLanguage } from "../i18n/LanguageContext";
 import { CONTACT, whatsappHref } from "../data/contact";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.jpg";
 
 const NAV_LINKS = [
   { href: "#home", key: "navHome" as const },
