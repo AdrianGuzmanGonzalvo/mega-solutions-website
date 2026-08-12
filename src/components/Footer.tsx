@@ -1,7 +1,7 @@
 import { Phone, Mail, MapPin } from "lucide-react";
 import { useLanguage } from "../i18n/LanguageContext";
 import { CONTACT } from "../data/contact";
-import logo from "../assets/logo.jpg";
+import logo from "../assets/logo-icon.jpg";
 
 function FacebookIcon() {
   return (
